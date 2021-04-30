@@ -1,1 +1,3 @@
-Dies ist mein erstes File in meinem Git repo.
+Dies ist meine erste Datei in meinem Git repo.
+Eine zweite Zeile.
+Eine dritte Zeile
